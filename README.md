@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am currently working in web development and have more than 5 years of professional experience. I have worked across the full technology stack, but I am especially passionate about backend development and database technologies. I have worked on many Web services, user interfaces, and data processing scripts.
+I am currently working in web development and have more than 5 years of professional experience. I have worked across the full technology stack, but I am especially passionate about backend development and database technologies. I have worked on many Web services, user interfaces, and data processing scripts. My main strengths are with Java and MongoDB, and I have certifications in both.
+
+I am currently exploring my interest in data science and machine learning. I have been been making use of different Python libraries, such as NumPy, pandas, scikit-learn, and TensorFlow.
+ 
+If you are interested in networking or collaborating please reach out to me at my email <jeffreycarter.cpe@gmail.com> 📫
 
 <!--
 **jeff-carter/jeff-carter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
