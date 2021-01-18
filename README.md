@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently working in web development and have more than 5 years of professional experience. I have worked across the full technology stack, but I am especially passionate about backend development and database technologies. I have worked on many Web services, user interfaces, and data processing scripts.
+
 <!--
 **jeff-carter/jeff-carter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
