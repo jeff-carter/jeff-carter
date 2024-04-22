@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working in web development and have more than 7 years of professional experience. I have worked across the full technology stack, but I am especially passionate about backend development and database technologies. I have worked on many Web services, user interfaces, and data processing scripts. My main strengths are with Java and MongoDB, and I have certifications in both.
+Experienced software engineer with over seven years of hands-on experience in developing robust solutions across the full technology stack. Proficient in frontend development with expertise in frameworks like Angular, while deeply passionate about backend development and database technologies such as Java, MongoDB, SQL, and Elasticsearch. Successfully delivered numerous web services, user interfaces, and data processing scripts, consistently optimizing performance and enhancing functionality to meet business objectives. My main strengths are with Java, Angular and MongoDB.
 
 I am currently exploring my interest in data science and machine learning. I have been been making use of different Python libraries, such as NumPy, pandas, scikit-learn, and TensorFlow.
  
