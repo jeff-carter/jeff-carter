@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-Experienced software engineer with over seven years of hands-on experience in developing robust solutions across the full technology stack. Proficient in frontend development with expertise in frameworks like Angular, while deeply passionate about backend development and database technologies such as Java, MongoDB, SQL, and Elasticsearch. Successfully delivered numerous web services, user interfaces, and data processing scripts, consistently optimizing performance and enhancing functionality to meet business objectives. My main strengths are with Java, Angular and MongoDB.
+Hi there, I'm Jeff 👋
+I’m a Senior Full-Stack Engineer with over a decade of experience building scalable web services and enterprise applications. A lot of my career has been spent architecting robust cloud and on-prem solutions within highly regulated environments, where security, performance, and data integrity are paramount.
 
-I am currently exploring my interest in data science and machine learning. I have been been making use of different Python libraries, such as NumPy, pandas, scikit-learn, and TensorFlow.
+On the frontend, I love setting UI technical direction and building clean, accessible user experiences. On the backend, I specialize in optimizing complex, data-intensive operations.
+
+🛠️ Tech I Work With
+Frontend: Angular, Typescript
+Backend & Cloud: Java, Python, MongoDB, Docker
+Architecture: Distributed Systems, REST/GraphQL APIs, CI/CD Pipelines
+
+🚀 Current Focus
+* Exploring IoT dashboards, React, and GraphQL
+* Mentoring developers and advocating for clean code practices.
+* Building side projects to automate my daily workflows.
  
 If you are interested in networking or collaborating please reach out to me at my email <jeffreycarter.cpe@gmail.com> 📫
 
