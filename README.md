@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi there, I'm Jeff 👋
+### Hi there, I'm Jeff 👋
 I’m a Senior Full-Stack Engineer with over a decade of experience building scalable web services and enterprise applications. A lot of my career has been spent architecting robust cloud and on-prem solutions within highly regulated environments, where security, performance, and data integrity are paramount.
 
 On the frontend, I love setting UI technical direction and building clean, accessible user experiences. On the backend, I specialize in optimizing complex, data-intensive operations.
