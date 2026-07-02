@@ -3,12 +3,12 @@ I’m a Senior Full-Stack Engineer with over a decade of experience building sca
 
 On the frontend, I love setting UI technical direction and building clean, accessible user experiences. On the backend, I specialize in optimizing complex, data-intensive operations.
 
-🛠️ Tech I Work With
-Frontend: Angular, Typescript
-Backend & Cloud: Java, Python, MongoDB, Docker
-Architecture: Distributed Systems, REST/GraphQL APIs, CI/CD Pipelines
+#### 🛠️ Tech I Work With
+* Frontend: Angular, Typescript
+* Backend & Cloud: Java, Python, MongoDB, Docker
+* Architecture: Distributed Systems, REST/GraphQL APIs, CI/CD Pipelines
 
-🚀 Current Focus
+#### 🚀 Current Focus
 * Exploring IoT dashboards, React, and GraphQL
 * Mentoring developers and advocating for clean code practices.
 * Building side projects to automate my daily workflows.
